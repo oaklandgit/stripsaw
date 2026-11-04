@@ -6,6 +6,8 @@ overlay. You type the split positions, and it records the panel coordinates in
 a `panels.json` manifest, so a website can rearrange the panels for different
 screen sizes.
 
+https://github.com/user-attachments/assets/fea0aebe-fc2c-47cf-8a88-b8c61f3aacc6
+
 ```
 go install github.com/oaklandgit/stripsaw@latest
 
